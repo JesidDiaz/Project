@@ -6,8 +6,7 @@ import plotly.express as px
 import plotly.figure_factory as ff
 import streamlit as st
 
-car_data = pd.read_csv("C:/Users/jesid/Project/Project/vehicles_us.csv")
-
+car_data = pd.read_csv("vehicles_us.csv")
 
 st.header("Exploración de Datos de Vehículos Usados")
 
