@@ -14,3 +14,6 @@ La aplicación permite al usuario visualizar diferentes aspectos del dataset `ve
 - Mapa de calor de correlaciones entre variables numéricas.
 
 Cada visualización puede activarse individualmente mediante casillas de verificación, lo que permite una exploración flexible e interactiva del dataset.
+
+## Puede visualizar la aplicación web en este link: 
+https://project-hvr3.onrender.com/ 
